@@ -61,7 +61,7 @@ I enjoy taking a problem from raw data or an initial idea, structuring it, build
 
 <div align="center">
 
-<img src="assets/visuals/toolkit-map.svg" width="100%" alt="Visual map of the technology toolkit"/>
+<!-- <img src="assets/visuals/toolkit-map.svg" width="100%" alt="Visual map of the technology toolkit"/> -->
 <br/>
 <img src="assets/animations/tech-orbit.svg" width="90%" alt="Animated technology orbit"/>
 
