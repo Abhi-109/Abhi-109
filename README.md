@@ -61,6 +61,8 @@ I enjoy taking a problem from raw data or an initial idea, structuring it, build
 
 <div align="center">
 
+<img src="assets/visuals/toolkit-map.svg" width="100%" alt="Visual map of the technology toolkit"/>
+<br/>
 <img src="assets/animations/tech-orbit.svg" width="90%" alt="Animated technology orbit"/>
 
 ### Languages & Data
@@ -92,6 +94,8 @@ I enjoy taking a problem from raw data or an initial idea, structuring it, build
 ## `03 / FEATURED BUILDS`
 
 <div align="center">
+<img src="assets/visuals/analytics-dashboard.svg" width="100%" alt="Animated analytics dashboard concept"/>
+<br/>
 <img src="assets/sections/project-flow.svg" width="100%" alt="Animated project data flow"/>
 </div>
 
@@ -176,6 +180,8 @@ A public repository focused on retail sales forecasting and data analytics.
 ## `04 / HOW I BUILD`
 
 <div align="center">
+<img src="assets/visuals/codelens-execution.svg" width="100%" alt="CodeLens code execution visualization"/>
+<br/>
 <img src="assets/animations/analytics-pipeline.svg" width="100%" alt="Animated analytics pipeline"/>
 </div>
 
@@ -204,20 +210,26 @@ Currently pursuing MCA.
 
 <div align="center">
 
+<!-- Lightweight GitHub metrics using Shields.io, avoiding unreliable stats-card hosts. -->
 <a href="https://github.com/Abhi-109">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhi-109&show_icons=true&hide_border=true&theme=transparent&title_color=67E8F9&icon_color=67E8F9&text_color=C9D1D9" alt="GitHub stats"/>
+  <img src="https://img.shields.io/github/followers/Abhi-109?label=FOLLOWERS&style=for-the-badge&logo=github&color=0e7490" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/Abhi-109?tab=repositories">
+  <img src="https://img.shields.io/github/repo-count/Abhi-109?label=PUBLIC%20REPOSITORIES&style=for-the-badge&color=155e75" alt="Public repositories"/>
 </a>
 <a href="https://github.com/Abhi-109">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-109&layout=compact&hide_border=true&theme=transparent&title_color=67E8F9&text_color=C9D1D9" alt="Top languages"/>
+  <img src="https://img.shields.io/github/stars/Abhi-109?affiliations=OWNER%2CCOLLABORATOR&label=REPOSITORY%20STARS&style=for-the-badge&color=3730a3" alt="Repository stars"/>
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Abhi-109&hide_border=true&background=00000000&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Abhi-109&hide_border=true&background=00000000&ring=67E8F9&fire=67E8F9&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhi-109&bg_color=00000000&color=C9D1D9&line=22D3EE&point=67E8F9&area=true&hide_border=true" width="95%" alt="Contribution activity graph"/>
+<a href="https://github.com/Abhi-109?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE-REPOSITORIES-0e7490?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
+</a>
 
 </div>
 

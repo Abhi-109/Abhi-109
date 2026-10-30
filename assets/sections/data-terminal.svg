@@ -1,10 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 290">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 290" role="img" aria-labelledby="title desc">
+<title id="title">Abhishek's data terminal</title>
+<desc id="desc">Terminal showing current focus, active project and build status.</desc>
 <rect x="2" y="2" width="496" height="286" rx="15" fill="#0b1220" stroke="#23445b"/>
-<path d="M2 42H498" stroke="#23445b"/><circle cx="24" cy="22" r="5" fill="#fb7185"/><circle cx="43" cy="22" r="5" fill="#fbbf24"/><circle cx="62" cy="22" r="5" fill="#34d399"/>
+<path d="M2 42H498" stroke="#23445b"/>
+<circle cx="24" cy="22" r="5" fill="#fb7185"/><circle cx="43" cy="22" r="5" fill="#fbbf24"/><circle cx="62" cy="22" r="5" fill="#34d399"/>
 <text x="86" y="27" fill="#94a3b8" font-family="monospace" font-size="12">abhishek@data-lab:~</text>
 <g font-family="monospace" font-size="14">
-<text x="25" y="75" fill="#67e8f9">$ whoami</text><text x="25" y="99" fill="#e2e8f0">Abhishek S</text>
-<text x="25" y="133" fill="#67e8f9">$ focus --current</text><text x="25" y="157" fill="#cbd5e1">Python / SQL / Analytics</text>
-<text x="25" y="191" fill="#67e8f9">$ project --active</text><text x="25" y="215" fill="#cbd5e1">CodeLens</text>
-<text x="25" y="249" fill="#67e8f9">$ status</text><text x="116" y="249" fill="#34d399">building<span><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</animate></text>
-</g></svg>
+<text x="25" y="75" fill="#67e8f9">$ whoami</text>
+<text x="25" y="99" fill="#e2e8f0">Abhishek S</text>
+<text x="25" y="133" fill="#67e8f9">$ focus --current</text>
+<text x="25" y="157" fill="#cbd5e1">Python / SQL / Analytics</text>
+<text x="25" y="191" fill="#67e8f9">$ project --active</text>
+<text x="25" y="215" fill="#cbd5e1">CodeLens</text>
+<text x="25" y="249" fill="#67e8f9">$ status</text>
+<text x="116" y="249" fill="#34d399">building</text>
+<rect x="184" y="237" width="8" height="15" rx="1" fill="#34d399"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</g>
+</svg>
