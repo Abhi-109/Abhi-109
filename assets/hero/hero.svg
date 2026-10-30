@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" role="img" aria-labelledby="t d">
+<title id="t">Abhishek S - Data Systems</title><desc id="d">Dark data-lab hero with animated network, data streams and title.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#07111f"/><stop offset=".55" stop-color="#101d31"/><stop offset="1" stop-color="#07111f"/></linearGradient>
+ <linearGradient id="glow"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+ <filter id="blur"><feGaussianBlur stdDeviation="18"/></filter>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#23405b" stroke-width=".7" opacity=".5"/></pattern>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/><rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<circle cx="990" cy="170" r="145" fill="#0891b2" opacity=".13" filter="url(#blur)"/>
+<g fill="none" stroke="#22d3ee" opacity=".5">
+ <path d="M760 60L900 110 1040 65 1130 145 1010 250 870 280 760 205Z"/>
+ <path d="M900 110L870 280M1040 65L1010 250M760 60L1010 250M760 205L1130 145"/>
+</g>
+<g fill="#67e8f9">
+ <circle cx="760" cy="60" r="4"><animate attributeName="r" values="3;7;3" dur="2.4s" repeatCount="indefinite"/></circle>
+ <circle cx="900" cy="110" r="5"><animate attributeName="opacity" values=".3;1;.3" dur="1.8s" repeatCount="indefinite"/></circle>
+ <circle cx="1040" cy="65" r="4"/><circle cx="1130" cy="145" r="5"/>
+ <circle cx="1010" cy="250" r="4"><animate attributeName="r" values="4;8;4" dur="3s" repeatCount="indefinite"/></circle>
+ <circle cx="870" cy="280" r="4"/><circle cx="760" cy="205" r="5"/>
+</g>
+<g fill="none" stroke="url(#glow)" stroke-width="2" stroke-linecap="round">
+ <path d="M720 310H1125" stroke-dasharray="5 12"><animate attributeName="stroke-dashoffset" from="0" to="-68" dur="4s" repeatCount="indefinite"/></path>
+ <path d="M790 35V325" stroke-dasharray="2 10" opacity=".5"/>
+</g>
+<text x="78" y="92" fill="#67e8f9" font-family="monospace" font-size="15" letter-spacing="5">DATA SYSTEMS / PROFILE 001</text>
+<text x="75" y="177" fill="#f8fafc" font-family="Arial, sans-serif" font-size="66" font-weight="700">ABHISHEK S</text>
+<text x="80" y="220" fill="#cbd5e1" font-family="monospace" font-size="20">DATA ANALYTICS  /  AI ENGINEERING</text>
+<text x="80" y="270" fill="#94a3b8" font-family="Arial, sans-serif" font-size="17">Building useful systems from data, logic and code.</text>
+<rect x="80" y="298" width="12" height="3" rx="1.5" fill="#22d3ee"><animate attributeName="width" values="12;120;12" dur="3s" repeatCount="indefinite"/></rect>
+<text x="1120" y="330" text-anchor="end" fill="#64748b" font-family="monospace" font-size="11">SYSTEM ONLINE • MCA</text>
+</svg>

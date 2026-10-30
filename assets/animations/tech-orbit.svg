@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 300">
+<rect width="900" height="300" rx="18" fill="#07111f"/>
+<g fill="none" stroke="#1e4961" stroke-width="1.5"><ellipse cx="450" cy="150" rx="320" ry="95"/><ellipse cx="450" cy="150" rx="240" ry="65" transform="rotate(28 450 150)"/><ellipse cx="450" cy="150" rx="240" ry="65" transform="rotate(-28 450 150)"/></g>
+<circle cx="450" cy="150" r="57" fill="#0e7490" opacity=".22"><animate attributeName="r" values="52;62;52" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="450" cy="150" r="42" fill="#102b42" stroke="#22d3ee"/>
+<text x="450" y="145" fill="#e0f2fe" text-anchor="middle" font-family="monospace" font-size="14">DATA</text><text x="450" y="164" fill="#67e8f9" text-anchor="middle" font-family="monospace" font-size="11">CORE</text>
+<g font-family="monospace" font-size="16" text-anchor="middle">
+<g><circle cx="132" cy="150" r="27" fill="#102b42" stroke="#22d3ee"/><text x="132" y="155" fill="#bae6fd">PY</text></g>
+<g><circle cx="300" cy="63" r="27" fill="#102b42" stroke="#818cf8"/><text x="300" y="68" fill="#c7d2fe">SQL</text></g>
+<g><circle cx="600" cy="63" r="27" fill="#102b42" stroke="#22d3ee"/><text x="600" y="68" fill="#bae6fd">BI</text></g>
+<g><circle cx="768" cy="150" r="27" fill="#102b42" stroke="#818cf8"/><text x="768" y="155" fill="#c7d2fe">AI</text></g>
+<g><circle cx="600" cy="237" r="27" fill="#102b42" stroke="#22d3ee"/><text x="600" y="242" fill="#bae6fd">ML</text></g>
+<g><circle cx="300" cy="237" r="27" fill="#102b42" stroke="#818cf8"/><text x="300" y="242" fill="#c7d2fe">EDA</text></g>
+</g>
+<circle r="5" fill="#67e8f9"><animateMotion dur="7s" repeatCount="indefinite" path="M132 150 Q300 0 450 150 Q600 300 768 150 Q600 0 450 150 Q300 300 132 150"/></circle>
+</svg>
