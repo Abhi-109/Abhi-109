@@ -94,7 +94,7 @@ I enjoy taking a problem from raw data or an initial idea, structuring it, build
 ## `03 / FEATURED BUILDS`
 
 <div align="center">
-<img src="assets/visuals/analytics-dashboard.svg" width="100%" alt="Animated analytics dashboard concept"/>
+<!-- <img src="assets/visuals/analytics-dashboard.svg" width="100%" alt="Animated analytics dashboard concept"/> -->
 <br/>
 <img src="assets/sections/project-flow.svg" width="100%" alt="Animated project data flow"/>
 </div>
@@ -180,7 +180,7 @@ A public repository focused on retail sales forecasting and data analytics.
 ## `04 / HOW I BUILD`
 
 <div align="center">
-<img src="assets/visuals/codelens-execution.svg" width="100%" alt="CodeLens code execution visualization"/>
+<!-- <img src="assets/visuals/codelens-execution.svg" width="100%" alt="CodeLens code execution visualization"/> -->
 <br/>
 <img src="assets/animations/analytics-pipeline.svg" width="100%" alt="Animated analytics pipeline"/>
 </div>
